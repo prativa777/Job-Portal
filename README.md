@@ -1,6 +1,6 @@
 # Job Portal
 
-A fully functional **Job Portal** web application built using **Python Django** and **Bootstrap**. This platform allows users to search and filter jobs by category, view job details, and apply for positions. It also includes user authentication and API support for developers.  
+A **Job Portal** web application built using **Python Django** and **Bootstrap**. This platform allows users to search and filter jobs by category, view job details, and apply for positions. It also includes user authentication and API support for developers.  
 
 ---
 
